@@ -1,3 +1,3 @@
 # Codeforces
 Just a record of the problems solved on Codeforces during competitions or while practicing.
-Mostly the Programs are in C++ and Java.
+Mostly the Programs are in C++.
